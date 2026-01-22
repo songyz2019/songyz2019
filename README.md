@@ -1,3 +1,4 @@
+<!--
 ## Research Interests
 ![Static Badge](https://img.shields.io/badge/Deep%20Learning-1F4E79)
 ![Static Badge](https://img.shields.io/badge/Multimodal%20Learning-7B68EE)
@@ -14,4 +15,4 @@
 <!--### Extras & Interests --> 
 [![My Skills](https://skillicons.dev/icons?i=html,js,debian,nginx,nodejs,ps,sqlite,vim,vscode,wasm,react,arduino&theme=light)](https://skillicons.dev)
 
-<!-- Experience --> 
+ Experience --> 
